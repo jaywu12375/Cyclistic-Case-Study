@@ -3,7 +3,6 @@ title: "Google Data Analytics: Cyclistic Case Study"
 author: "Jay Wu"
 date: "2022-08-22"
 output: rmarkdown::github_document
-output: html_document
 ---
 
 ```{r turn off scientific notation, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
